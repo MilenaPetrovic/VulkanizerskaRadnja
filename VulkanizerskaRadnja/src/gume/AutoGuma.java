@@ -1,7 +1,7 @@
 package gume;
 
 /**
- * Klasa koja predstavlja gumu automobila
+ * Klasa koja predstavlja gumu automobila.
  * 
  * @author Milena Petrovic
  * @version 1.0
